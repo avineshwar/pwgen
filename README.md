@@ -10,7 +10,7 @@ Steps to follow:
   
   
 MacOSX users can do this from their terminal:
-security add-generic-password -a ${USER} -s SomeNameHere -w `~/bin/pwgen`
+`security add-generic-password -a ${USER} -s SomeNameHere -w ~/bin/pwgen`
 
 This will add into the keychain, "SomeNameHere" as an application with a password which was given by pwgen.
 
