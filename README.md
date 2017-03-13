@@ -5,8 +5,8 @@ Taken from netmeister.org, it helps to generate a reasonably random password. A 
 
 
 Steps to follow:
-  Create the pwgen in ~/bin/ and chmod pwgen to 755
-  We are ready to spit out random passwords
+  1. Create the pwgen in ~/bin/ and chmod pwgen to 755
+  2. We are ready to spit out random passwords
   
   
 MacOSX users can do this from their terminal:
